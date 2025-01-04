@@ -1,0 +1,15 @@
+{
+    "name": "@smart-manager/remote-storage-dev2",
+    "version": "1.0.0",
+    "type": "commonjs",
+    "scripts": {
+        "gen-meta": "node scripts/gen-meta.js",
+        "delete-runs": "node scripts/delete-runs.js"
+    },
+    "devDependencies": {
+        "axios": "^1.7.9",
+        "file-type": "^18.5.0",
+        "sharp": "^0.32.6",
+        "yauzl": "^2.10.0"
+    }
+}

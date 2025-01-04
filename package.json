@@ -1,5 +1,5 @@
 {
-    "name": "@smart-manager/remote-storage-dev2",
+    "name": "@smart-manager/remote-storage",
     "version": "1.0.0",
     "type": "commonjs",
     "scripts": {

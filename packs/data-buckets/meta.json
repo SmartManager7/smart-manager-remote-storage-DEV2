@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": "e3f705bf-37df-4dc0-a88a-5e4329bdff46",
+        "name": "DB Group 1",
+        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV2",
+        "remotePath": "packs/data-buckets/b41e4393-a975-4936-a742-0c52f20b7b5e.zip",
+        "version": "909680b1-c750-475c-9e4b-466c9fbb149d",
+        "itemsVersions": {}
+    }
+]

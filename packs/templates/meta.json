@@ -4,9 +4,9 @@
         "name": "1",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-DEV2",
         "remotePath": "packs/templates/0ca626b1-1548-40d1-a89d-e719ef6540d1.zip",
-        "version": "60ef9229-e97d-443b-a334-1f977e7d5a16",
+        "version": "a6be1a20-d91b-4706-ab9f-b01259dcd3a4",
         "itemsVersions": {
-            "90f7df33-70e6-4358-bb7f-22b5e08c50af": null
+            "90f7df33-70e6-4358-bb7f-22b5e08c50af": "40db2865-3dee-4117-8643-a7a662cacdd1"
         }
     }
 ]
